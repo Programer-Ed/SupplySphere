@@ -1,0 +1,25 @@
+{
+  "dfx": "0.14.1",
+  "name": "wchl-nextjs-flask",
+  "version": "0.1.0",
+  "canisters": {
+    "frontend": {
+      "type": "assets",
+      "source": "./out"
+    }
+  },
+  "networks": {
+    "local": {
+      "bind": "127.0.0.1:8000",
+      "type": "ephemeral"
+    },
+    "ic": {
+      "providers": ["https://ic0.app/"]
+    }
+  },
+  "defaults": {
+    "build": {
+      "output": "out"
+    }
+  }
+}

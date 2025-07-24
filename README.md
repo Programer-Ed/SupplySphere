@@ -1,4 +1,4 @@
-## 🪐 `README.md` — *SupplySphere: Revolutionizing Global Trade Infrastructure*
+## 🪐 *SupplySphere: Revolutionizing Global Trade Infrastructure*
 
 ```markdown
 # 🌐 SupplySphere
